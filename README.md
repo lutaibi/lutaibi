@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Lana</h1>
-
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Hi%2C+I'm+Lana" alt="Hi, I'm Lana" />
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C9B37E&center=true&vCenter=true&width=520&lines=Computer+Science+student;Systems%2C+caching%2C+and+data+structures;Thinking+about+cities%2C+logic%2C+and+language" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=20&duration=3000&pause=1200&color=7EE787&center=true&vCenter=true&width=520&height=35&lines=CS+student+%40+King's+College+London;Systems%2C+patterns%2C+abstraction;Curious+about+almost+everything" alt="Typing intro" />
   </a>
 </p>
 
 ---
 
-### About
+### `$ whoami`
 
 I'm a second-year Computer Science student at King's College London. I like systems, patterns, and abstraction, and I'm curious about almost everything. I'm happiest when two fields that seem completely unrelated turn out to share the same idea.
 
@@ -16,7 +16,7 @@ I'm a second-year Computer Science student at King's College London. I like syst
 - **Current modules:** Software Engineering Group Project (Python/Django), Internet Systems (networking), Practical Programming (C++, Scala), Foundations of Computing 2 (algorithms & complexity)
 - **Open to:** summer 2027 internships
 
-### Featured project
+### `$ cat featured_project.md`
 
 **[Adaptive Distributed Media Cache](https://github.com/lutaibi/ADMC)**
 A Java caching engine with LRU and LFU eviction policies that share one `EvictionPolicy` interface, so they can be swapped and benchmarked side by side. The benchmark replays 200,000 Zipf-distributed requests against each policy: LFU reached a 64% hit rate against 58% for LRU.
@@ -24,7 +24,7 @@ A Java caching engine with LRU and LFU eviction policies that share one `Evictio
 
 **Next up:** an interactive visualiser, so you can watch each policy's hits and evictions as requests come in. After that, extending the cache across multiple nodes with consistent hashing.
 
-### Tech stack
+### `$ ls tech_stack/`
 
 **Languages**
 <p>
@@ -43,7 +43,7 @@ A Java caching engine with LRU and LFU eviction policies that share one `Evictio
 
 ---
 
-### Domain expansion: off the clock
+### `$ domain_expansion --off-the-clock`
 
 | | |
 |---|---|
@@ -55,5 +55,7 @@ A Java caching engine with LRU and LFU eviction policies that share one `Evictio
 | **Writing** | About anything. Sometimes analytical, sometimes just playing with imagery, metaphor, and abstraction. |
 | **Art** | Drawing, both digital and traditional. |
 
-> *"The limits of my language mean the limits of my world."*
-> — Wittgenstein, *Tractatus Logico-Philosophicus* (5.6)
+```
+// "The limits of my language mean the limits of my world."
+//  Wittgenstein, Tractatus Logico-Philosophicus 5.6
+```
