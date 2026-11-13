@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Hi%2C+I'm+Lana" alt="Hi, I'm Lana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=40&duration=1800&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=55&lines=hello%2C+world;I'm+Lana" alt="I'm Lana" />
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=20&duration=3000&pause=1200&color=7EE787&center=true&vCenter=true&width=520&height=35&lines=CS+student+%40+King's+College+London;Systems%2C+patterns%2C+abstraction;Curious+about+almost+everything" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=20&duration=2500&pause=1500&color=7EE787&center=true&vCenter=true&width=520&height=35&lines=CS+%40+King's+College+London;%3E+philosophy+%26+logic;%3E+urbanism+%26+maps;%3E+Tetris+%26+logic+puzzles;%3E+speed+typing+(139+WPM);%3E+writing+%26+drawing" alt="CS @ King's College London, interests" />
 </p>
+
+---
 
 ---
 
