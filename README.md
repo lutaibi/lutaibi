@@ -13,7 +13,7 @@
 I'm a second-year Computer Science student at King's College London. I like systems, patterns, and abstraction, and I'm curious about almost everything. I'm happiest when two fields that seem completely unrelated turn out to share the same idea.
 
 - **Currently building:** an adaptive distributed media cache in Java
-- **Current modules:** Software Engineering Group Project (Python/Django), Internet Systems (networking), Practical Programming (C++, Scala), Foundations of Computing 2 (algorithms & complexity)
+- **Current modules:** Software Engineering Group Project (Python/Django), Internet Systems (networking), Practical Programming (C++, Scala), Foundations of Computing 2 (computational math, algorithms & complexity)
 - **Open to:** summer 2027 internships
 
 ### `$ cat featured_project.md`
