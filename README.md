@@ -18,7 +18,7 @@ I'm a second-year Computer Science student at King's College London. I like syst
 
 ### `$ cat featured_project.md`
 
-**[Adaptive Distributed Media Cache](https://github.com/lutaibi/ADMC)**
+**[Adaptive Distributed Media Cache](https://github.com/lutaibi/adaptive-distributed-media-cache)**
 A Java caching engine with LRU and LFU eviction policies that share one `EvictionPolicy` interface, so they can be swapped and benchmarked side by side. The benchmark replays 200,000 Zipf-distributed requests against each policy: LFU reached a 64% hit rate against 58% for LRU.
 
 **Tech:** `Java` · `caching` · `data structures` · `benchmarking`
