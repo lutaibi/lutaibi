@@ -19,7 +19,7 @@ I'm a second-year Computer Science student at King's College London. I like syst
 ### `$ cat featured_project.md`
 
 **[Adaptive Distributed Media Cache](https://github.com/lutaibi/adaptive-distributed-media-cache)**
-A Java caching engine with LRU and LFU eviction policies that share one `EvictionPolicy` interface, so they can be swapped and benchmarked side by side. The benchmark replays 200,000 Zipf-distributed requests against each policy: LFU reached a 64% hit rate against 58% for LRU.
+A Java caching engine with LRU and LFU eviction policies that share one `EvictionPolicy` interface, so they can be swapped and benchmarked side by side. The benchmark replays 200,000 Zipf-distributed requests against each policy: LFU reached a 66% hit rate against 58% for LRU.
 
 **Tech:** `Java` · `caching` · `data structures` · `benchmarking`
 
@@ -51,7 +51,7 @@ A Java caching engine with LRU and LFU eviction policies that share one `Evictio
 | **Reading** | Mostly philosophy at the moment. Currently reading *The Art of Living* by Sharon Lebell, her version of Epictetus. Plato's *Symposium* is next. |
 | **Urbanism & geography** | I think a lot of problems trace back to how places are built, from mental health to how independently and safely people can get around. Also, I like maps. |
 | **Puzzles** | NYT Pips and the Mini daily. I've always loved Tetris, and three years ago a friend introduced me to TETR.IO, which I've played ever since. |
-| **Speed typing** | 139 WPM at 100% accuracy on [Monkeytype](https://monkeytype.com/profile/lanoosh)'s 15-second test, and a best of 130 WPM in a Nitro Type race. Aiming for 150. |
+| **Speed typing** | 144 WPM at 98% accuracy on [Monkeytype](https://monkeytype.com/profile/lanoosh)'s 15-second test, and a best of 130 WPM in a Nitro Type race. Aiming for 150. |
 | **Basketball** | I enjoy playing, and arcade basketball is a favourite. |
 | **Writing** | About anything. Sometimes analytical, sometimes just playing with imagery, metaphor, and abstraction. |
 | **Art** | Drawing, both digital and traditional. |
